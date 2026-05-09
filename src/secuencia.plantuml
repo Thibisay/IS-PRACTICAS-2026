@@ -1,5 +1,3 @@
 @startuml create 
-bob -> alice
-
 
 @enduml
